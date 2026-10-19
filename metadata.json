@@ -1,0 +1,6 @@
+{
+  "name": "Care4Elder",
+  "description": "Smart companion for elderly care, safety, GPS tracking, health reminders, and SOS emergency assistance.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
